@@ -8,5 +8,5 @@
 *.fa
 *.rds
 output/*
-scripts/NeuroCog_scRNA-Seq_Lab_2020_*/*
+scripts/NeuroCog_scRNA-Seq_Lab_202*_*/*
 data/whitelist_v3.txt
